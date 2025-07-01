@@ -1,0 +1,34 @@
+Password Strength Evaluation Report – Task 6
+Name: Rohit
+Date: July 1, 2025
+Tool: passwordmeter.com
+
+Password Used: professormessor1911@$$!
+
+Result:
+- Score: 100%
+- Complexity: Very Strong
+
+Additions:
+- 23 characters total
+- Contains lowercase letters, numbers, symbols
+- Symbols and numbers placed in the middle
+- Met minimum complexity requirements (3/4 criteria)
+
+Deductions:
+- No uppercase letters
+- 17 repeated characters
+- 14 consecutive lowercase letters
+- 3 consecutive numbers
+
+Summary:
+Despite missing uppercase letters and having repeated letters, the password scored very high due to length and symbol use. It was rated "Very Strong".
+
+Lessons Learned:
+- Length is one of the strongest factors in password strength
+- Avoid using repeat characters or predictable sequences
+- Symbols in the middle add to complexity
+- Passphrases + randomness = strong and memorable passwords
+
+Conclusion:
+This task helped me realize that the way characters are placed matters a lot. Strong passwords aren't just about symbols, but about making them unpredictable and long.
